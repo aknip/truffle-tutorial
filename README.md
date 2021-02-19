@@ -12,4 +12,4 @@ cd /workspace/truffle-tutorial/greeter/
 
 
 ## Memo
-git commit -am "Kommentar zum Commit" && git push
+git add . && git commit -am "" && git push
