@@ -5,4 +5,5 @@ Execution via bash:
 - node_modules/.bin/ganache-cli
 - node_modules/.bin/truffle
 
-
+## Memo
+git commit -am "Kommentar zum Commit" && git push
